@@ -1,0 +1,9 @@
+name: NameTagSystem
+main: kabochamaru.NameTagSystem.NameTagSystem
+version: 1.0.0
+author: kabochamaru
+description: bukkit Plugin
+commands:
+  tag:
+    description: "NameTagSystemのコマンド"
+    permission: op
